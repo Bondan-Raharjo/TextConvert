@@ -1,0 +1,27 @@
+.list-group-item strong {
+    min-width: 70px;
+    display: inline-block;
+}
+
+#hasil span {
+    margin-left: 15px;
+    word-break: break-word;
+}
+
+.card {
+    max-width: 600px;
+    margin: 0 auto;
+    transition: all 0.3s ease;
+}
+
+.bi-gear-fill {
+    transition: transform 0.3s ease;
+}
+
+.btn:hover .bi-gear-fill {
+    transform: rotate(90deg);
+}
+
+.card:hover {
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+}
