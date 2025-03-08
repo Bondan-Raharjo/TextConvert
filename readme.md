@@ -1,7 +1,7 @@
 # Web App Konversi text
 
 Sebuah aplikasi web untuk mengkonversi teks melalui beberapa tahap algoritma khusus
-
+[live Demo](https://text-convert-liard.vercel.app/)
 ## Requirment
 1. Browser (Chrome, Firefox, Edge versi terbaru)
 2. Koneksi internet (CDN Bootstrap)
@@ -21,3 +21,4 @@ git clone
 
 ## Screenshot
 ![alt text](image.png)
+
